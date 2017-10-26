@@ -1,6 +1,6 @@
 {
   "name": "@activeprospect/timeframe",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Relative timeframes",
   "main": "index.js",
   "scripts": {
